@@ -17,7 +17,7 @@ It's been poorly written and requires improvements.
 4. servo_game
 
 This Arduino Uno project lets you play with the microcontroller. Thanks to photoresistors it shows position of your finger. It is cure for boredom!
-Version: servo
+version: servo
 
 5. snake
 
@@ -33,7 +33,7 @@ Controls:
 6. step_game
 
 This Arduino Uno project lets you play with the microcontroller. Thanks to photoresistors it shows position of your finger. It is cure for boredom!
-Version: 28BYJ-48 5V stepper motor with ULN2003 driver
+version: 28BYJ-48 5V stepper motor with ULN2003 driver
 
 7. the_office
 
