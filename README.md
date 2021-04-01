@@ -2,8 +2,8 @@ This repository contains:
 
 1. Akcelerometr
 
-This STM32 NUCLEO-F303RE with KA-Nucleo-Multisensor project displays data measured in three dimentions by built-in accelerometer sensor
-on 4×7 segment display and transmits it using UART.
+This STM32 NUCLEO-F303RE with KA-Nucleo-Multisensor project receives SPI's data measured in three dimentions by built-in accelerometer sensor,
+displays it on 4 digit 7 segment LED display and transmits it using UART.
 
 
 2. RGB
@@ -14,7 +14,7 @@ This Arduino Uno project enables to control one RGB LED in any desirable way.
 3. budzik
 
 This Arduino Uno project shows current time on 4×7 display in HH:MM format.
-It's been poorly written and requires improvements.
+It's been poorly handled and requires improvements.
 
 
 4. servo_game
@@ -26,7 +26,7 @@ version: servo
 
 5. snake
 
-This STM32 NUCLEO-F303RE project lets you play snake game on 8×8 LED matrix.
+This STM32 NUCLEO-F303RE project lets you play snake game on 8×8 (1088BS) LED matrix.
 It has both visual and auditory outputs thanks to mounted buzzer.
 
 Controls:
@@ -35,7 +35,7 @@ Controls:
 
 – BLUE PUSHBUTTON – pause,
 
-– BLACK PUSHBUTTON (RESET) – starts new game,
+– BLACK PUSHBUTTON (RESET) – start new game,
 
 – potentiometer – set speed (before starting new game).
 
