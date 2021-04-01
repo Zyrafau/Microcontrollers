@@ -33,7 +33,7 @@ Controls:
 
 – UP/DOWN/LEFT/RIGHT – control snake direction,
 
-– BLUE PUSHBUTTON – pause,
+– BLUE PUSHBUTTON – pause current game,
 
 – BLACK PUSHBUTTON (RESET) – start new game,
 
